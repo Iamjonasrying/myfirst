@@ -6,6 +6,7 @@ body {
   font-size: 20px;
 }
 header {
+  min-with: 1100px;
   max-width: none;
   margin: none;
   background-color: red;
