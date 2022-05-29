@@ -10,6 +10,7 @@ header {
   max-width: none;
   margin: none;
   background-color: red;
+  background-size: cover;
   color: white;
   height: 100px;
   text-align: center;
