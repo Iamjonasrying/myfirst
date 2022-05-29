@@ -43,7 +43,7 @@ main {
     width: 680px;
     height: 438px;
   
-    margin: 40px;
+    margin: 100px, 100, 100, 100;
     align-content: center;
 }
     
