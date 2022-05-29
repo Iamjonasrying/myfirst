@@ -40,6 +40,9 @@ footer {
   font-size: 80px;
 }
 .container {
+  height: 100%;
+  padding: 0;
+  margin: 0;
   display:flex;
    background-color: maroon;
    color: white;
