@@ -39,9 +39,6 @@ footer {
   font-family: verdana;
   font-size: 80px;
 }
-<div class="container">
-    <div class="column column-a">
-background-color: red;
-  color: white;
-      a
-    </div>
+.container {
+  display:flex;
+}
