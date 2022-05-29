@@ -6,10 +6,10 @@ body {
   font-size: 20px;
 }
 .header {
+  position: absolute;
+  top: 10px;
   border: 8px solid white;
   border-radius: 20px;
-  max-width: none;
-  margin: none;
   background-color: red;
   background-size: cover;
   color: white;
@@ -33,7 +33,7 @@ main {
   .box  {
     background-image: url("kissen.png");
     border: 2px solid white;
-    border-radius: 2px;
+    border-radius: 20px;
     color: white;
     width: 400px;
     height: 400px;
