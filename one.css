@@ -34,6 +34,7 @@ main {
 }
 
   .box  {
+    padding: 50, 50, 50, 50;
     background-image: url("kissen.png");
     border: 2px solid white;
     border-radius: 20px;
