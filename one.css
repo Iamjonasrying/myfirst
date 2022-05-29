@@ -43,7 +43,8 @@ main {
     
     
 .footer {
-  position: bottom;
+  position: absolute;
+  bottom: 10px;
   border: 8px solid white;
   border-radius: 20px;
   max-width: none;
