@@ -16,6 +16,16 @@ header {
   font-family: verdana;
   font-size: 80px;
 }
+main {
+  min-width: 1100px;
+  max-width: auto;
+  margin: none;
+  color: white;
+  height: auto;
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+}
 footer {
   min-width: 1100px;
   max-width: none;
