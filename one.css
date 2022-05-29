@@ -31,7 +31,7 @@ main {
 }
 
   .box  {
-    bg-img: kissen.png;
+    background-image: url("kissen.png");
     border: 2px solid white;
     border-radius: 2px;
     color: white;
