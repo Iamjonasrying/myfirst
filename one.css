@@ -55,4 +55,10 @@ main {
   font-family: verdana;
   font-size: 80px;
 }
-
+ .table  {
+    background-color: black;
+    color: white;
+    width: 400px;
+    height: 400px;
+   
+}
