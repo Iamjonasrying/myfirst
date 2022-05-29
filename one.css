@@ -8,7 +8,8 @@ body {
 .header {
   position: absolute;
   top: 10px;
-  left: -10px;
+  left: 0px;
+  right: 0px;
   border: 8px solid white;
   border-radius: 20px;
   background-color: red;
