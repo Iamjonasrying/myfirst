@@ -36,8 +36,8 @@ main {
     color: white;
     width: 400px;
     height: 400px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px;
+    margin: 40px;
 }
     
     
