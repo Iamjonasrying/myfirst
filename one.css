@@ -34,14 +34,14 @@ main {
 }
 
   .box  {
-    padding: 50, 50, 50, 50;
+    align: center;
     background-image: url("kissen.png");
     border: 2px solid white;
     border-radius: 20px;
     color: white;
     width: 400px;
     height: 400px;
-    padding: 20px;
+  
     margin: 40px;
     align-content: center;
 }
