@@ -31,8 +31,10 @@ body {
     color: white;
     width: 680px;
     height: 438px;
-  
-   
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
     align-content: center;
 }
     
