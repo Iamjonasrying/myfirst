@@ -17,12 +17,13 @@ header {
   font-size: 80px;
 }
 main {
+  vertical-align: baseline;
   min-width: 1100px;
   max-width: auto;
   margin: none;
   color: white;
   height: auto;
-  text-align: center;
+  text-align: left;
   font-family: verdana;
   font-size: 20px;
 }
