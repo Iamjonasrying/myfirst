@@ -47,9 +47,11 @@ main {
     
 .footer {
   position: absolute;
-  bottom: 10px;
-  border: 8px solid white;
-  border-radius: 20px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  border: 0px;
+  border-radius: 0px;
   background-color: red;
   color: black;
   height: 100px;
