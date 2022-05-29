@@ -7,7 +7,7 @@ body {
 }
 header {
   max-width: none;
-  margin: 0px auto;
+  margin: none;
   background-color: red;
   color: white;
   height: 400px;
