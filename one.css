@@ -41,4 +41,6 @@ footer {
 }
 .container {
   display:flex;
+   background-color: maroon;
+   color: white;
 }
