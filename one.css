@@ -6,8 +6,8 @@ body {
   font-size: 20px;
 }
 .header {
-  border: 0px solid red;
-  border-radius: 5px;
+  border: 8px solid white;
+  border-radius: 20px;
   min-width: 1100px;
   max-width: none;
   margin: none;
