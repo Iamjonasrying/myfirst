@@ -6,14 +6,13 @@ body {
   font-size: 20px;
 }
 header {
-  min-with: 1100px;
+  min-width: 1100px;
   max-width: none;
   margin: none;
   background-color: red;
   color: white;
-  height: 400px;
+  height: 200px;
   text-align: center;
-  vertical-align: baseline;
   font-family: verdana;
   font-size: 80px;
 }
