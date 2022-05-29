@@ -43,7 +43,7 @@ main {
     
     
 .footer {
-  vertical-align: baseline;
+  position: bottom;
   border: 8px solid white;
   border-radius: 20px;
   max-width: none;
