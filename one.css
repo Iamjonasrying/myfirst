@@ -26,9 +26,9 @@ body {
   .box  {
 
     background-image: url("kissen.png");
-    border: 2px solid white;
+    border: 6px solid #000000;
     border-radius: 20px;
-    color: white;
+    color: #000000;
     width: 680px;
     height: 438px;
     display: block;
