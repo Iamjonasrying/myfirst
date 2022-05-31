@@ -1,5 +1,5 @@
 body {
-  background-color: #ffd700;
+  background-color: #00ffff;
   color: white;
   text-align: left;
   font-family: verdana;
@@ -12,7 +12,7 @@ body {
   right: 0px;
   border: 0px;
   border-radius: 0px;
-  background-color: #ff0000;
+  background-color: #ff8c00;
   background-size: cover;
   color: #87ceeb;
   height: 100px;
@@ -46,7 +46,7 @@ body {
   right: 0px;
   border: 0px;
   border-radius: 0px;
-  background-color: #ff0000;
+  background-color: #ff8c00;
   color: black;
   height: 100px;
   width: 100%;
