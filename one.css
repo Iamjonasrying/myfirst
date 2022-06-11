@@ -32,9 +32,9 @@ body {
     width: 680px;
     height: 438px;
     display: block;
-    margin-left: auto;
-   margin-top:150px;
-    margin-right: auto;
+    margin: auto;
+    padding: 10px;
+
  
 }
     
